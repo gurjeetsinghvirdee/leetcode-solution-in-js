@@ -1,1 +1,3 @@
-# leetcode-solution-in-javascript
+## Leetcode-solution-in-javascript
+
+<img src="./Img/leetcode.jpeg">
