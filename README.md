@@ -1,4 +1,4 @@
-## Leetcode-solution-in-javascript
+## Leetcode solutions in javascript
 
 ### Created 3 Directories according to levels in Leetcode 
 <ul>
