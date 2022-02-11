@@ -24,7 +24,7 @@ Constraints:
 s consists of English letters, digits, symbols and spaces.
 
 
-```
+```javascript
 /**
  * @param {string} s
  * @return {number}

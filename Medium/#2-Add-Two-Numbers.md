@@ -4,7 +4,7 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 Example 1:
 
-<img src="./src/Asset/addtwonumber1.jpg" height="220" width="600">
+<img src="../src/Asset/addtwonumber1.jpg" height="220" width="600">
 
 ```
 Input: l1 = [2,4,3], l2 = [5,6,4]
@@ -33,7 +33,7 @@ Constraints:
     <li>It is guaranteed that the list represents a number that does not have leading zeros.</li>
 </ul>
 
-```
+```javascript
 /**
  * Definition for singly-linked list.
  * function ListNode(val, next) {

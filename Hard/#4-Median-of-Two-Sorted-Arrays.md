@@ -28,7 +28,7 @@ Constraints:
     <li>-106 <= nums1[i], nums2[i] <= 106</li>
 </ul>
 
-```
+```javascript
 /**
  * @param {number[]} nums1
  * @param {number[]} nums2
