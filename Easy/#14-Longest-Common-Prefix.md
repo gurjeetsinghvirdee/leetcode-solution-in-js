@@ -3,26 +3,26 @@
 #### If there is no common prefix, return an empty string "".
 
  
-Example 1:
+__Example 1:__
 ```
 Input: strs = ["flower","flow","flight"]
 Output: "fl"
 ```
 
-Example 2:
+__Example 2:__
 ```
 Input: strs = ["dog","racecar","car"]
 Output: ""
 Explanation: There is no common prefix among the input strings.
 ```
 
-Constraints:
-<ul>
-    <li>1 <= strs.length <= 200</li>
-    <li>0 <= strs[i].length <= 200
-        strs[i] consists of only lower-case English letters.
-    </li>
-</ul>
+__Constraints:__
+
+* 1 <= strs.length <= 200
+* 0 <= strs[i].length <= 200
+* strs[i] consists of only lower-case English letters.
+    
+
 
 ```javascript
 /**
