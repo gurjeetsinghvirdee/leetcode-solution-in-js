@@ -4,7 +4,7 @@
 
 __Example 1:__
 
-<img src="../src/Asset/addtwonumber1.jpg" height="220" width="600">
+<img src="../src/Asset/addtwonumber1.jpg" height="220" width="550">
 
 ```
 Input: l1 = [2,4,3], l2 = [5,6,4]
