@@ -6,4 +6,4 @@
 - [x] Medium
 - [x] Hard
 
-<img src="./src/Img/leetcode.jpeg">
+<img src="./src/Img/leetcode.jpeg" width="600" height="200">
