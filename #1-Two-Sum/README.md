@@ -25,10 +25,10 @@ Output: [0,1]
 
 __Constraints:__
 
-* 2 <= nums.length <= 104
-* -109 <= nums[i] <= 109
-* -109 <= target <= 109
+* `2 <= nums.length <= 104`
+* `-109 <= nums[i] <= 109`
+* `-109 <= target <= 109`
 * Only one valid answer exists.
  
 
-__Follow-up:__ Can you come up with an algorithm that is less than O(n2) time complexity?
+__Follow-up:__ Can you come up with an algorithm that is less than `O(n2)` time complexity?
