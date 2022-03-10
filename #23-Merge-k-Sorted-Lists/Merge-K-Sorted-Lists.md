@@ -37,8 +37,3 @@ __Constraints:__
 * -104 <= lists[i][j] <= 104
 * lists[i] is sorted in ascending order.
 * The sum of lists[i].length will not exceed 104.
-
-
-```javascript
-
-```
