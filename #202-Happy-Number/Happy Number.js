@@ -1,6 +1,3 @@
-
-
-```javascript
 /**
  * @param {number} n
  * @return {boolean}
@@ -23,4 +20,3 @@ const isHappy = function(n, happy = {}) {
     }
     return true
 };
-```
